@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Dsiplays listening ports
+
+netstat -l --program
